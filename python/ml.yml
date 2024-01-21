@@ -1,0 +1,12 @@
+name: machine_learning
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.11
+  - scikit-learn
+  - seaborn
+  - numpy
+  - pandas
+  - pytorch
+prefix: C:\Users\victo\anaconda3\envs\machine_learning
